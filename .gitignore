@@ -1,0 +1,16 @@
+front-end/ihome/node_modules/
+front-end/ihome/.expo/
+front-end/ihome/.git/
+front-end/ihome/npm-debug.*
+front-end/ihome/*.jks
+front-end/ihome/*.p8
+front-end/ihome/*.p12
+front-end/ihome/*.key
+front-end/ihome/*.mobileprovision
+front-end/ihome/*.orig.*
+front-end/ihome/web-build/
+
+# macOS
+front-end/ihome/.DS_Store
+
+back-end/ihome
